@@ -1,0 +1,19 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    background-image: linear-gradient(rgb(36, 35, 35),rgba(0, 0, 0, 0.025));
+    color: aliceblue;
+    padding: 10px 0;
+}
+
+.main-logo{
+    width: 100px;
+    float: left;
+    margin-left: 50px;
+}
+
+.userprofile{
+    margin: 10px;
+    float: right;
+    margin-right: 50px;
+}
